@@ -3,8 +3,8 @@
 Explore the Campus Transport Tracking System using the demo account.
 
 **Admin Login**
-- Email: `your-admin-demo-email`
-- Password: `your-admin-demo-password`
+- Email: `25mvcser0622@mallareddyuniversity.ac.in`
+- Password: `123456789`
 
 **Student Login**
 - Email: `your-student-demo-email`
