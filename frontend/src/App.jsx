@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:5000/api";
+const API = `${import.meta.env.VITE_API_URL}/api`;
 const authInputStyle = { boxSizing: "border-box", width: "100%", border: "1px solid #d8e1ea", borderRadius: 10, padding: "13px 14px", marginBottom: 14, fontSize: 15, outlineColor: "#087e8b" };
 const authLinkStyle = { border: 0, background: "none", color: "#087e8b", fontWeight: 700, cursor: "pointer", padding: 4 };
 
